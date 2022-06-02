@@ -28,7 +28,7 @@ import com.dsousa.minhasfinancas.service.UsuarioService;
 import lombok.RequiredArgsConstructor;
 
 @RestController
-@RequestMapping("/lancamentos")
+@RequestMapping("api/lancamentos")
 @RequiredArgsConstructor
 public class LancamentoController {
 	
