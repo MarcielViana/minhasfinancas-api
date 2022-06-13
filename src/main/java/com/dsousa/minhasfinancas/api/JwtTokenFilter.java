@@ -27,7 +27,6 @@ public class JwtTokenFilter extends OncePerRequestFilter{
 			) {
 				this.jwtService = jwtService;
 				this.userDetailsService = userDetailsService;
-		
 	}
 
 	@Override

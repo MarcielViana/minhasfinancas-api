@@ -75,5 +75,4 @@ public class JwtServiceImpl implements JwtService {
 		Claims claims = obterClains(token);
 		return claims.getSubject();
 	}
-
 }

@@ -11,5 +11,4 @@ public class TokenDTO {
 	
 	private String nome;
 	private String token;
-
 }

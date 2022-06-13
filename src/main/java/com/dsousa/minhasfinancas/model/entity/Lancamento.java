@@ -2,7 +2,6 @@ package com.dsousa.minhasfinancas.model.entity;
 
 import java.math.BigDecimal;
 import java.time.LocalDate;
-import java.util.Objects;
 
 import javax.persistence.Column;
 import javax.persistence.Convert;
